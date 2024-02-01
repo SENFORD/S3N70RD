@@ -7,5 +7,7 @@ public class caterpillar {
 		this.cabbage=cabbage;
 		
 	}
-
+int get_move() {
+	return move;
+}
 }
